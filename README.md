@@ -6,6 +6,6 @@ This repository has some additional teaching materials created for the Quantum O
 All educational content and code in this repository is licensed under the
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-You are free to use, adapt, and share this material, provided you give appropriate credit to [Your Name/Institution Name].
+You are free to use, adapt, and share this material, provided you give appropriate credit to Mikel Palmero/University of the Basque Country.
 
 A copy of the license is available in the [LICENSE.md](LICENSE.md) file.
